@@ -1,0 +1,165 @@
+
+/* Заголовок и аватарка */
+.title_back {
+    background-color: rgb(255, 247, 237);
+    width: 1185px;
+    height: 90px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    -webkit-box-shadow: 40px 36px 18px -26px rgba(34, 60, 80, 0.07);
+    -moz-box-shadow: 40px 36px 18px -26px rgba(34, 60, 80, 0.07);
+    box-shadow: 40px 36px 18px -26px rgba(34, 60, 80, 0.07);
+}
+
+.title_content {
+    color: darkgray;
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.avatar {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    border: 3px solid darkgray;
+    background-color: rgb(238, 248, 250);
+    margin: 5px
+}
+
+/* Расписание */
+.table_title {
+    font-size: 25px;
+    color:rgb(17, 17, 17);
+    font-family: "Montserrat", sans-serif;
+    padding-top: 5px;
+    padding-left: 6px;
+    margin: 0px;
+}
+
+.table_info {
+    font-size: 17px;
+    color:rgb(27, 27, 27);
+    font-family: "Montserrat", sans-serif;
+    padding-left: 4px;
+    margin: 0px;
+}
+
+.table1_back {
+    background-color: rgb(254, 255, 208);
+    width: 280px;
+    height: 250px;
+    border-radius: 8px;
+    margin: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.table2_back {
+    background-color: rgb(252, 255, 214);
+    width: 280px;
+    height: 250px;
+    border-radius: 8px;
+    margin: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.table3_back {
+    background-color: rgb(216, 255, 216);
+    width: 280px;
+    height: 250px;
+    border-radius: 8px;
+    margin: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.table4_back {
+    background-color: rgb(210, 207, 255);
+    width: 280px;
+    height: 250px;
+    border-radius: 8px;
+    margin: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.table5_back {
+    background-color: rgb(255, 194, 222);
+    width: 380px;
+    height: 250px;
+    border-radius: 8px;
+    margin: 10px;
+    margin-right: 20px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.table6_back {
+    background-color: rgb(255, 209, 209);
+    width: 380px;
+    height: 250px;
+    border-radius: 8px;
+    margin: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.table7_back {
+    background-color: rgb(212, 255, 210);
+    width: 375px;
+    height: 250px;
+    border-radius: 8px;
+    margin: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+ hr { 
+
+    margin: 0px;
+    padding: 1px;
+}
+
+/* Заметки */
+.note_back {
+
+    background-color: rgb(255, 247, 237);
+    width: 1200px;
+    height: 520px;
+    border-radius: 15px;
+    margin: 10px;
+    -webkit-box-shadow: 40px 36px 18px -26px rgba(34, 60, 80, 0.07);
+    -moz-box-shadow: 40px 36px 18px -26px rgba(34, 60, 80, 0.07);
+    box-shadow: 40px 36px 18px -26px rgba(34, 60, 80, 0.07);
+}
+
+.note_title {
+    font-size: 25px;
+    color:rgb(17, 17, 17);
+    font-family: "Montserrat", sans-serif;
+    padding-top: 15px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+textarea {
+
+    margin-left: 20px;
+    width: 1160px;
+    height: 420px;
+    resize: none;
+}
+
+button {
+
+    margin-left: 20px;
+}
